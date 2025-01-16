@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TheOrb\\YoutubeOrb\\YoutubeOrb\\YoutubeOrb.csproj",
+      "projectUniqueName": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\YoutubeOrb.csproj",
       "projectName": "YoutubeOrb",
-      "projectPath": "D:\\TheOrb\\YoutubeOrb\\YoutubeOrb\\YoutubeOrb.csproj",
+      "projectPath": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\YoutubeOrb.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "D:\\TheOrb\\YoutubeOrb\\YoutubeOrb\\obj\\",
+      "outputPath": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

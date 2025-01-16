@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zn4jz/jVW08=",
+  "dgSpecHash": "JY4NFWWr0M4=",
   "success": true,
-  "projectFilePath": "D:\\TheOrb\\YoutubeOrb\\YoutubeOrb\\YoutubeOrb.csproj",
+  "projectFilePath": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\YoutubeOrb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
