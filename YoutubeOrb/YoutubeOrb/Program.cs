@@ -1,3 +1,8 @@
+using Pomelo.EntityFrameworkCore.MySql;
+using YoutubeOrb.Data;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
