@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\data\\youtubeorbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\data\\youtubeorbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\helpers\\jwthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\helpers\\jwthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\data\\youtubeorbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|solutionrelative:youtubeorb\\data\\youtubeorbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B11B6B9-50E2-4276-8EB6-651BE18E7328}|YoutubeOrb\\YoutubeOrb.csproj|d:\\theorb\\youtubeorb\\streamingapp\\youtubeorb\\youtubeorb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,20 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "YoutubeOrb\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "YoutubeOrb\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T16:57:24.525Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
             },
             {
               "$type": "Document",
@@ -80,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "YoutubeorbContext.cs",
               "DocumentMoniker": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Data\\YoutubeorbContext.cs",
               "RelativeDocumentMoniker": "YoutubeOrb\\Data\\YoutubeorbContext.cs",
@@ -92,33 +83,55 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Program.cs",
               "RelativeDocumentMoniker": "YoutubeOrb\\Program.cs",
               "ToolTip": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Program.cs",
               "RelativeToolTip": "YoutubeOrb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T09:53:06.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "YoutubeOrb\\Services\\AuthService.cs",
               "ToolTip": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Services\\AuthService.cs",
               "RelativeToolTip": "YoutubeOrb\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T01:23:07.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtHelpers.cs",
+              "DocumentMoniker": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Helpers\\JwtHelpers.cs",
+              "RelativeDocumentMoniker": "YoutubeOrb\\Helpers\\JwtHelpers.cs",
+              "ToolTip": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Helpers\\JwtHelpers.cs",
+              "RelativeToolTip": "YoutubeOrb\\Helpers\\JwtHelpers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:22:21.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "YoutubeOrb\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "YoutubeOrb\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:57:24.525Z",
               "EditorCaption": ""
             },
             {
@@ -131,21 +144,7 @@
               "RelativeToolTip": "YoutubeOrb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T09:55:19.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JwtHelpers.cs",
-              "DocumentMoniker": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Helpers\\JwtHelpers.cs",
-              "RelativeDocumentMoniker": "YoutubeOrb\\Helpers\\JwtHelpers.cs",
-              "ToolTip": "D:\\TheOrb\\YoutubeOrb\\StreamingApp\\YoutubeOrb\\YoutubeOrb\\Helpers\\JwtHelpers.cs",
-              "RelativeToolTip": "YoutubeOrb\\Helpers\\JwtHelpers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T01:22:21.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:55:19.759Z"
             },
             {
               "$type": "Document",
@@ -157,8 +156,7 @@
               "RelativeToolTip": "YoutubeOrb\\YoutubeOrb.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-16T09:54:26.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:54:26.541Z"
             },
             {
               "$type": "Document",
@@ -170,8 +168,7 @@
               "RelativeToolTip": "YoutubeOrb\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T09:55:26.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:55:26.452Z"
             },
             {
               "$type": "Document",
@@ -183,8 +180,7 @@
               "RelativeToolTip": "YoutubeOrb\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T09:55:15.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:55:15.774Z"
             }
           ]
         },

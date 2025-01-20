@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YoutubeOrb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97496526bba4596d68a57b6c488c08c05582c56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e632795359435ec4a4408078ce3ffa0481d0244")]
 [assembly: System.Reflection.AssemblyProductAttribute("YoutubeOrb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YoutubeOrb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
